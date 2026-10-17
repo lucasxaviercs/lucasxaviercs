@@ -28,6 +28,6 @@ I currently work as a **Product Intern** @ Méliuz and I am an Information Syste
 `Claude Code` `Power BI` `Jira` `Git` `Notion`
 
 
-## Contato
+## Contact
 
 [LinkedIn](https://www.linkedin.com/in/lxaviercs/) · lxavierfla@gmail.com
